@@ -1,0 +1,1921 @@
+{
+  "Levels List": [
+    {
+      "Level 0-1": [
+        {
+          "Time": 0,
+          "File Version": "0.006",
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 0,
+          "Coins": [
+            30,
+            30,
+            30,
+            30
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 0,
+          "Coins": 30,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 0-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            70,
+            70,
+            70,
+            70
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 70,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 0-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            11,
+            11,
+            11,
+            11
+          ],
+          "Gems": 5,
+          "Coins": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 11,
+          "Gems": 5,
+          "Coins": 0,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    },
+    {
+      "Level 1-1": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 0,
+          "Coins": [
+            30,
+            30,
+            30,
+            30
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 0,
+          "Coins": 20,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 1-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            70,
+            70,
+            70,
+            70
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 50,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 1-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            11,
+            11,
+            11,
+            11
+          ],
+          "Gems": 5,
+          "Coins": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 8,
+          "Gems": 5,
+          "Coins": 0,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    },
+    {
+      "Level 2-1": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 0,
+          "Coins": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 0,
+          "Coins": 30,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 2-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            90,
+            90,
+            90,
+            90
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 70,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 2-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            11,
+            11,
+            11,
+            11
+          ],
+          "Gems": 5,
+          "Coins": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 8,
+          "Gems": 5,
+          "Coins": 0,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    },
+    {
+      "Level 3-1": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 0,
+          "Coins": [
+            85,
+            85,
+            85,
+            85
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 0,
+          "Coins": 70,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 3-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            95,
+            95,
+            95,
+            95
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 80,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 3-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 5,
+          "Coins": [
+            120,
+            120,
+            120,
+            120
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 5,
+          "Coins": 90,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    },
+    {
+      "Level 4-1": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 0,
+          "Coins": [
+            80,
+            80,
+            80,
+            80
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2",
+              "Order 3": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 0,
+          "Coins": 50,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2",
+              "Order 3": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 4-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            100,
+            100,
+            100,
+            100
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 70,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 4-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 5,
+          "Coins": [
+            110,
+            110,
+            110,
+            110
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 5,
+          "Coins": 90,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    },
+    {
+      "Level 5-1": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            11,
+            11,
+            11,
+            11
+          ],
+          "Gems": 0,
+          "Coins": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 1
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 9,
+          "Gems": 0,
+          "Coins": 0,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1"
+            }
+          ],
+          "Like": 0,
+          "Review": 1
+        }
+      ],
+      "Level 5-2": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Gems": 3,
+          "Coins": [
+            140,
+            140,
+            140,
+            140
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 0,
+          "Gems": 3,
+          "Coins": 100,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A1",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ],
+      "Level 5-3": [
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": [
+            20,
+            20,
+            20,
+            20
+          ],
+          "Gems": 5,
+          "Coins": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "GP_NO": 0,
+          "Retry": 1,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "Review": 0
+        },
+        {
+          "Time": 0,
+          "Side Target Number": 0,
+          "Dishes": 15,
+          "Gems": 5,
+          "Coins": 0,
+          "GP_NO": 0,
+          "Retry": 0,
+          "Customer Time": 30,
+          "Customers": [
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A3"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A1"
+            },
+            {
+              "Order 1": "T1_A2",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_B1"
+            },
+            {
+              "Order 1": "T1_A2"
+            },
+            {
+              "Order 1": "T1_B1",
+              "Order 2": "T1_A2"
+            },
+            {
+              "Order 1": "T1_A3",
+              "Order 2": "T1_A2"
+            }
+          ],
+          "Like": 0,
+          "Review": 0
+        }
+      ]
+    }
+  ]
+}
