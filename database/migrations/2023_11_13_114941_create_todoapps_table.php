@@ -12,14 +12,17 @@ return new class extends Migration
      * @return void
      */
     public function up()
-    {
-        Schema::create('todoapps', function (Blueprint $table) {
-            $table->id();
-            $table->string('title');
-            $table->text('description');
-            $table->timestamps();
-        });
-    }
+{
+    Schema::create('todoapps', function (Blueprint $table) {
+        $table->id();
+        $table->string('title');
+        $table->text('description');
+        $table->unsignedBigInteger('user_id'); // Use unsignedBigInteger for referencing the id column.
+        $table->timestamps();
+
+        $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade'); // 'users' instead of 'User'
+    });
+}
 
     /**
      * Reverse the migrations.

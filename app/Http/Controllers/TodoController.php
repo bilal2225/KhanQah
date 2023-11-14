@@ -10,107 +10,87 @@ class TodoController extends Controller
 {
     public function index()
     {
-        $products = Todoapp::all();
-    
+        $this->authorize('viewAny', Todoapp::class);
+
+        $user = Auth::user();
+        $userId = $user->id;
+        $products = Todoapp::where('user_id', $userId)->paginate(10);
+
         return response()->json([
-            'message' => 'data Receive successfully'
+            'products' => $products,
+            'message' => 'data received successfully'
         ]);
     }
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
-     */
+
     public function store(Request $request)
     {
         $input = $request->all();
-   
+
         $validator = Validator::make($input, [
             'title' => 'required',
             'description' => 'required'
         ]);
-   
-        if($validator->fails()){
+
+        if ($validator->fails()) {
             return response()->json([
-                'message' => 'some thing went wrong'
+                'message' => 'something went wrong'
             ]);
         }
-   
+
+        $user = Auth::user();
+        $userId = $user->id;
+        $input['user_id'] = $userId;
         $product = Todoapp::create($input);
-   
-        return response()->json([
-            'message' => 'added successfully'
-        ]);
-    } 
-   
-    /**
-     * Display the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function show($id)
-    {
-        $product = Todoapp::find($id);
-  
-        if (is_null($product)) {
-           
-                return response()->json([
-                    'message' => 'some thing went wrong'
-                ]);
-            
-       
-        }
-   
+
         return response()->json([
             'message' => 'added successfully'
         ]);
     }
-    
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Todoapp $product)
+
+    public function show(Todoapp $todoApp)
     {
+        $this->authorize('view', $todoApp);
+
+        return response()->json([
+            'product' => $todoApp,
+            'message' => 'show successfully'
+        ]);
+    }
+
+    public function update(Request $request, Todoapp $todoApp)
+    {
+        $this->authorize('update', $todoApp);
+
         $input = $request->all();
-   
+
         $validator = Validator::make($input, [
             'title' => 'required',
             'description' => 'required'
         ]);
-   
-        if($validator->fails()){
+
+        if ($validator->fails()) {
             return response()->json([
                 'message' => 'failed'
-            ]);   
+            ]);
         }
-   
-        $product->name = $input['title'];
-        $product->detail = $input['description'];
-        $product->save();
-   
+
+        $todoApp->title = $input['title'];
+        $todoApp->description = $input['description'];
+        $todoApp->save();
+
         return response()->json([
             'message' => 'updated successfully'
         ]);
     }
-   
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Todoapp $product)
+
+    public function destroy(Todoapp $todoApp)
     {
-        $product->delete();
-   
+        $this->authorize('delete', $todoApp);
+
+        $todoApp->delete();
+
         return response()->json([
-            'message' => 'deleted cessfully'
+            'message' => 'deleted successfully'
         ]);
     }
 }
